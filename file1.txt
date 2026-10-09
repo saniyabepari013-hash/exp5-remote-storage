@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 Hello there! This is my Experiment 5 file.
+=======
+Hello there! This is my Experiment 5 file. 
